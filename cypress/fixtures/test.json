@@ -1,0 +1,54 @@
+[
+  {
+    "name": "Merced",
+    "urlPath": "MercedFeb23",
+    "depositDeadline": "02/21",
+    "startTime": "February 24, 2023 at 11:00 AM ET (8:00 AM PT)",
+    "endTime": "February 27, 2023",
+    "webGIS": "https://mercedcounty.maps.arcgis.com/apps/webappviewer/index.html"
+  },
+  {
+    "name": "Alameda",
+    "urlPath": "AlamedaMar23",
+    "depositDeadline": "03/14",
+    "startTime": "March 17, 2023 at 11:30 AM ET (8:30 AM PT)",
+    "endTime": "March 20, 2023"
+  },
+  {
+    "name": "Shasta",
+    "urlPath": "ShastaFeb23",
+    "depositDeadline": "02/17",
+    "startTime": "February 24, 2023 at 11:00 AM ET (8:00 AM PT)",
+    "endTime": "February 27, 2023",
+    "webGIS": "https://maps.shastacounty.gov/ShastaCountyMap/?find=",
+    "accessorInfo": "https://common1.mptsweb.com/mbap/shasta/Asr/AsrMain/016310017000"
+  },
+  {
+    "name": "Yuba",
+    "urlPath": "YubaFeb23",
+    "depositDeadline": "02/21",
+    "startTime": "February 25, 2023 at 11:00 AM ET (8:00 AM PT)",
+    "endTime": "February 28, 2023"
+  },
+  {
+    "name": "SantaCruz",
+    "urlPath": "SantaCruzMar23",
+    "depositDeadline": "02/27",
+    "startTime": "February 24, 2023 at 11:00 AM ET (8:00 AM PT)",
+    "endTime": "February 27, 2023"
+  },
+  {
+    "name": "Sacramento",
+    "urlPath": "SacramentoCoFeb23",
+    "depositDeadline": "02/22",
+    "startTime": "February 27, 2023 at 1:00 PM ET (10:00 AM PT)",
+    "endTime": "February 27, 2023"
+  },
+  {
+    "name": "Amador",
+    "urlPath": "AmadorMay23",
+    "depositDeadline": "03/06",
+    "startTime": "March 13, 2023 at 4:00 PM ET (1:00 PM PT)",
+    "endTime": "March 15, 2023"
+  }
+]

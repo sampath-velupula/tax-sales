@@ -1,0 +1,23 @@
+[
+  {
+    "name": "Merced",
+    "urlPath": "MercedFeb23",
+    "depositDeadline": "02/21",
+    "webGIS": "https://mercedcounty.maps.arcgis.com/apps/webappviewer/index.html"
+  },
+  {
+    "name": "Yuba",
+    "urlPath": "YubaFeb23",
+    "depositDeadline": "02/21"
+  },
+  {
+    "name": "SantaCruz",
+    "urlPath": "SantaCruzMar23",
+    "depositDeadline": "02/27"
+  },
+  {
+    "name": "Sacramento",
+    "urlPath": "SacramentoCoFeb23",
+    "depositDeadline": "02/22"
+  }
+]
